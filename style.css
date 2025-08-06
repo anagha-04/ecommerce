@@ -142,5 +142,22 @@
 }
 
 .up-to-box{
+    box-shadow: 6px 7px 6px var(--logo);
+}
+
+.icon-box{
+    transform: translate(26%,-850%);
+
+}
+
+.img-box{
     box-shadow: 2px 5px 7px black;
+}
+
+.cart-box{
+    background: var(--textcolor);
+     box-shadow: 2px 5px 7px rgb(0, 2, 0);
+}
+.cart-item{
+    box-shadow: 1px 1px 4px black;
 }
