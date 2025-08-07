@@ -162,3 +162,9 @@
     box-shadow: 1px 1px 4px black;
 }
 
+.card-box{
+    
+    width: 100vw;
+    height: 30px;
+}
+
